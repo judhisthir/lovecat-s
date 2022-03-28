@@ -39,3 +39,27 @@ h1{
     width: 60%;
     transform: rotate(25deg);
 }
+/* Feature section */
+#features{
+    margin: 100px;
+}
+.feature-item{
+    text-align: center;
+    
+}
+.feature-icon{
+    font-size: 60px;
+    margin: 10px;
+    color: #ff4c68;
+}
+.feature-h3{
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+.feature-p{
+    font-size: medium;
+    color: #8f8f8f;  
+    font-family: "Montserrat";  
+    padding: 0 70px;
+}
