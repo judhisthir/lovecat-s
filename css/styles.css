@@ -76,7 +76,6 @@ h2{
 /* testimonial */
 #testimonials{
     text-align: center;
-    padding: 7% 15%;
     background-color: #ff4c68;
     color: #fff;
 }
@@ -84,6 +83,9 @@ h2{
     width: 10%;
     border-radius: 100%;
     margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
 }
 /* press */
 #press{
